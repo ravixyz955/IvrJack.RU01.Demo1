@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:text="Running..."
+        android:textColor="#00c328"
+        android:textSize="21sp" />
+
+    <Button
+        android:id="@+id/read"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/status"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="5dp"
+        android:layout_marginStart="5dp"
+        android:background="#0000"
+        android:padding="5dp"
+        android:text="Read"
+        android:textColor="@color/button"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/accpwdTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/status"
+        android:layout_marginTop="20dp"
+        android:text="Acc Pwd(Hex): "
+        android:textSize="21sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/accpwd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/accpwdTitle"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_toEndOf="@id/accpwdTitle"
+        android:layout_toRightOf="@id/accpwdTitle"
+        android:text="00000000" />
+
+    <TextView
+        android:id="@+id/epcTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/accpwdTitle"
+        android:layout_marginTop="20dp"
+        android:text="EPC: "
+        android:textSize="21sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/epc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/epcTitle"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_toEndOf="@id/epcTitle"
+        android:layout_toRightOf="@id/epcTitle"
+        android:text="AABBCCDD"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/tidTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/epcTitle"
+        android:layout_marginTop="20dp"
+        android:text="TID: "
+        android:textSize="21sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/tidTitle"
+        android:layout_alignLeft="@id/epc"
+        android:layout_alignStart="@id/epc"
+        android:text="11223344"
+        android:textSize="18sp" />
+
+</RelativeLayout>

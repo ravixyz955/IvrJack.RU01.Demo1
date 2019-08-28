@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loading_09.png.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\drawable-hdpi\\loading_09.png"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings.xml.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_center.xml.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\layout\\main_center.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_epc_item.xml.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\layout\\epc_item.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loading_00.png.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\drawable-hdpi\\loading_00.png"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ssert.png.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\drawable-hdpi\\ssert.png"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\color_button.xml.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\color\\button.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loading_05.png.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\drawable-hdpi\\loading_05.png"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_epc.xml.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\layout\\epc.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_bottom.xml.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\layout\\main_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loading_11.png.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\drawable-hdpi\\loading_11.png"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_tag_write.xml.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\layout\\tag_write.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loading_03.png.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\drawable-hdpi\\loading_03.png"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dialog_line.png.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\drawable-hdpi\\dialog_line.png"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_top.xml.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\layout\\main_top.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loading_08.png.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\drawable-hdpi\\loading_08.png"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_tag_kill.xml.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\layout\\tag_kill.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progress_round.xml.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\drawable\\progress_round.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_tag_lock.xml.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\layout\\tag_lock.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loading_01.png.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\drawable-hdpi\\loading_01.png"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progress_bar.xml.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\drawable\\progress_bar.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loading_06.png.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\drawable-hdpi\\loading_06.png"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loading_10.png.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\drawable-hdpi\\loading_10.png"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_plugout.png.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\drawable-mdpi\\plugout.png"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_battery.xml.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\layout\\battery.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loading_04.png.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\drawable-hdpi\\loading_04.png"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loading_07.png.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\drawable-hdpi\\loading_07.png"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_tag_read.xml.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\layout\\tag_read.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loading_02.png.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\drawable-hdpi\\loading_02.png"
+    },
+    {
+        "merged": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_tag.xml.flat",
+        "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\layout\\tag.xml"
+    }
+]

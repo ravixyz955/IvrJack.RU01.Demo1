@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "88,146",
+                        "endColumns": "57,55",
+                        "endOffsets": "141,197"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,1,3,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "113,16,60,166",
+                        "endColumns": "52,42,52,63",
+                        "endOffsets": "161,54,108,225"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "169,222,265,318",
+                        "endColumns": "52,42,52,54",
+                        "endOffsets": "217,260,313,368"
+                    }
+                },
+                {
+                    "source": "D:\\Android Projects\\RFID\\IvrJack.RU01.Demo1\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "54,180",
+                        "endLines": "5,10",
+                        "endColumns": "12,12",
+                        "endOffsets": "174,357"
+                    },
+                    "to": {
+                        "startLines": "8,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "373,498",
+                        "endLines": "10,14",
+                        "endColumns": "12,12",
+                        "endOffsets": "493,675"
+                    }
+                }
+            ]
+        }
+    ]
+}

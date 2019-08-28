@@ -1,0 +1,61 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml:2:11-50
+		INJECTED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml:3:5-63
+	android:versionCode
+		ADDED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml:7:5-70
+	android:name
+		ADDED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml:7:22-68
+application
+ADDED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml:9:5-28:19
+	android:label
+		ADDED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.xminnov.ivrjack.ru01.demo.MainActivity
+ADDED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml:14:9-22:20
+	android:label
+		ADDED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.xminnov.ivrjack.ru01.demo.SettingsActivity
+ADDED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml:23:9-25:20
+	android:name
+		ADDED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml:23:19-51
+activity#com.xminnov.ivrjack.ru01.demo.TagActivity
+ADDED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml:26:9-27:20
+	android:name
+		ADDED from D:\Android Projects\RFID\IvrJack.RU01.Demo1\app\src\main\AndroidManifest.xml:26:19-46

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp">
+
+    <TextView
+        android:id="@+id/status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:text="Running..."
+        android:textColor="#00c328"
+        android:textSize="21sp"
+        android:visibility="visible"/>
+
+    <Button
+        android:id="@+id/lock"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="10dp"
+        android:background="#0000"
+        android:padding="5dp"
+        android:text="Lock"
+        android:textColor="@color/button"
+        android:textSize="21sp"/>
+
+    <TextView
+        android:id="@+id/epcTitle"
+        style="@style/TitleText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/status"
+        android:layout_marginTop="15dp"
+        android:text="EPC: "/>
+
+    <TextView
+        android:id="@+id/epc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/epcTitle"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_toEndOf="@id/epcTitle"
+        android:layout_toRightOf="@id/epcTitle"
+        android:text="01020304 05060708 0A0B0C0D"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/accpwdTitle"
+        style="@style/TitleText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/epcTitle"
+        android:layout_marginTop="15dp"
+        android:text="Acc Pwd(Hex): "/>
+
+    <EditText
+        android:id="@+id/accpwd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/accpwdTitle"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_toEndOf="@id/accpwdTitle"
+        android:layout_toRightOf="@id/accpwdTitle"
+        android:text="00000000"/>
+
+    <TextView
+        android:id="@+id/lockObjectTitle"
+        style="@style/TitleText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/accpwdTitle"
+        android:layout_marginTop="15dp"
+        android:text="Lock Object: "/>
+
+    <RadioGroup
+        android:id="@+id/lockObjectGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/lockObjectTitle"
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/objectEpc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:checked="true"
+            android:text="EPC"/>
+
+        <RadioButton
+            android:id="@+id/objectUser"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="USER"/>
+
+        <RadioButton
+            android:id="@+id/objectAPWD"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="APWD"/>
+
+        <RadioButton
+            android:id="@+id/objectKPWD"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="KPWD"/>
+
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/lockActionTitle"
+        style="@style/TitleText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/lockObjectGroup"
+        android:layout_marginTop="5dp"
+        android:text="Lock Action: "/>
+
+    <RadioGroup
+        android:id="@+id/lockActionGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/lockActionTitle"
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/actionUnlock"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:checked="true"
+            android:text="UNLOCK"/>
+
+        <RadioButton
+            android:id="@+id/actionLock"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="LOCK"/>
+
+        <RadioButton
+            android:id="@+id/actionPerm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="PERM"/>
+
+    </RadioGroup>
+
+</RelativeLayout>

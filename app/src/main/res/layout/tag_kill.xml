@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp">
+
+    <TextView
+        android:id="@+id/status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:text="Running..."
+        android:textColor="#00c328"
+        android:textSize="21sp"
+        android:visibility="visible"/>
+
+    <Button
+        android:id="@+id/kill"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="10dp"
+        android:background="#0000"
+        android:padding="5dp"
+        android:text="Kill"
+        android:textColor="@color/button"
+        android:textSize="21sp"/>
+
+    <TextView
+        android:id="@+id/epcTitle"
+        style="@style/TitleText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/status"
+        android:layout_marginTop="15dp"
+        android:text="EPC: "/>
+
+    <TextView
+        android:id="@+id/epc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/epcTitle"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_toEndOf="@id/epcTitle"
+        android:layout_toRightOf="@id/epcTitle"
+        android:text="01020304 05060708 0A0B0C0D"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/accpwdTitle"
+        style="@style/TitleText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/epcTitle"
+        android:layout_marginTop="15dp"
+        android:text="Acc Pwd(Hex): "/>
+
+    <EditText
+        android:id="@+id/accpwd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/accpwdTitle"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_toEndOf="@id/accpwdTitle"
+        android:layout_toRightOf="@id/accpwdTitle"
+        android:text="00000000"/>
+
+    <TextView
+        android:id="@+id/killpwdTitle"
+        style="@style/TitleText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/accpwdTitle"
+        android:layout_marginTop="15dp"
+        android:text="Kill Pwd(Hex): "/>
+
+    <EditText
+        android:id="@+id/killpwd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/killpwdTitle"
+        android:layout_alignLeft="@id/accpwd"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignStart="@id/accpwd"
+        android:text="00000000"/>
+
+</RelativeLayout>
